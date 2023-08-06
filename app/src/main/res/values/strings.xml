@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APExercise1A</string>
+    <string name="app_profile">Mary Claire</string>
+    <string name="app_address">Pagbilao Quezon</string>
+    <string name="app_button">Edit Profile</string>
+    <string name="app_aboutme">About me</string>
+    <string name="app_myaboutme">Im a proud mom of 3 and passionate home baker. </string>
+    <string name="app_interest">Interest </string>
+    <string name="app_myinterest">Baking, Dancing, Singing, Watching Kdrama. </string>
+    <string name="app_educ">Education </string>
+    <string name="app_myeduc">Bachelors Degree in Hotel and Restaurant Management </string>
+    <string name="app_exp">Experience </string>
+    <string name="app_myexp"> 5 years of professional experience. </string>
+</resources>
